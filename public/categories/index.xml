@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Tomo-blog</title>
+    <link>http://tomoblog.github.io/categories/</link>
+    <description>Recent content in Categories on Tomo-blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Wed, 01 Jan 2020 21:37:35 -0800</lastBuildDate>
+    
+	<atom:link href="http://tomoblog.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>CircleCI</title>
+      <link>http://tomoblog.github.io/categories/circleci/</link>
+      <pubDate>Wed, 01 Jan 2020 21:37:35 -0800</pubDate>
+      
+      <guid>http://tomoblog.github.io/categories/circleci/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Development</title>
+      <link>http://tomoblog.github.io/categories/development/</link>
+      <pubDate>Wed, 01 Jan 2020 21:37:35 -0800</pubDate>
+      
+      <guid>http://tomoblog.github.io/categories/development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GitHub Pages</title>
+      <link>http://tomoblog.github.io/categories/github-pages/</link>
+      <pubDate>Wed, 01 Jan 2020 21:37:35 -0800</pubDate>
+      
+      <guid>http://tomoblog.github.io/categories/github-pages/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hugo</title>
+      <link>http://tomoblog.github.io/categories/hugo/</link>
+      <pubDate>Wed, 01 Jan 2020 21:37:35 -0800</pubDate>
+      
+      <guid>http://tomoblog.github.io/categories/hugo/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

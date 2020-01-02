@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://tomoblog.github.io/categories/</loc>
+    <lastmod>2020-01-01T21:37:35-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tomoblog.github.io/categories/circleci/</loc>
+    <lastmod>2020-01-01T21:37:35-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tomoblog.github.io/categories/development/</loc>
+    <lastmod>2020-01-01T21:37:35-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tomoblog.github.io/categories/github-pages/</loc>
+    <lastmod>2020-01-01T21:37:35-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tomoblog.github.io/categories/hugo/</loc>
+    <lastmod>2020-01-01T21:37:35-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tomoblog.github.io/post/</loc>
+    <lastmod>2020-01-01T21:37:35-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tomoblog.github.io/</loc>
+    <lastmod>2020-01-01T21:37:35-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tomoblog.github.io/blog/create-blog-with-hugo-and-circleci/</loc>
+    <lastmod>2020-01-01T21:37:35-08:00</lastmod>
+  </url>
+  
+</urlset>

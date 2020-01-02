@@ -1,0 +1,10 @@
+baseurl = "http://tomoblog.github.io"
+languageCode = "ja"
+title = "Tomo-blog"
+theme = "hyde-x"
+[author]
+    name = "Tomo"
+[permalinks]
+    post = "/blog/:slug/"
+[indexes]
+    category = "categories"
