@@ -30,7 +30,7 @@ jobs:
               hugo
               git clone git@github.com:risso24/tomoblog.github.io.git
               ls
-              cp -rp public/* rtomoblog.github.io/
+              cp -rp public/* tomoblog.github.io/
               cd tomoblog.github.io
               ls
               git remote set-url origin git@github.com:isso24/tomoblog.github.io.git
